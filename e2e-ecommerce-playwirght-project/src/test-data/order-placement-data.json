@@ -1,0 +1,17 @@
+{
+  "billingAddress": {
+    "firstName": "Foysal",
+    "lastName": "Rabbi",
+    "email": "johndoe@example.com",
+    "company": "Acme Inc.",
+    "country": "United States of America",
+    "stateProvince": "Alaska",
+    "city": "San Francisco",
+    "address1": "123 Main Street",
+    "address2": "Apt. 4B",
+    "zipPostalCode": "94107",
+    "phoneNumber": "+1 (555) 123-4567",
+    "faxNumber": "+1 (555) 987-6543"
+  }
+
+}

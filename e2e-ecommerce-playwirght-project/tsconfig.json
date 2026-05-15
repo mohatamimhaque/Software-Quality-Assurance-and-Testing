@@ -1,0 +1,26 @@
+// {
+//   "compilerOptions": {
+//     "target": "ES6",
+//     "module": "CommonJS",
+//     "strict": true,
+//     "esModuleInterop": true,
+//     "moduleResolution": "Node",
+//     "resolveJsonModule": true,
+//     "outDir": "dist",
+//     "rootDir": "src",
+//     "skipLibCheck": true,
+//     "forceConsistentCasingInFileNames": true
+//   },
+//   "include": ["src/**/*"]
+// }
+
+
+
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "moduleResolution": "Node",
+        "resolveJsonModule": true
+    }
+    
+}

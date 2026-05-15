@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "slug": "/htc-smartphone",
+      "name": "HTC Smartphone",
+      "sku" : "M8_HTC_5L",
+      "qty": "2"
+    },
+    {
+      "slug": "/leica-t-mirrorless-digital-camera",
+      "name": "Leica T Mirrorless Digital Camera",
+      "sku" : "LT_MIR_DC",
+      "qty": "1"
+      
+    },
+    {
+      "slug": "/nike-sb-zoom-stefan-janoski-medium-mint",
+      "name": "Nike SB Zoom Stefan Janoski Medium Mint",
+      "sku" : "NK_ZSJ_MM",
+      "qty": "3"
+    }
+  ]
+}

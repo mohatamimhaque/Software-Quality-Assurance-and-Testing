@@ -1,0 +1,63 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+.npm/
+
+# Build output (TypeScript compilation)
+dist/
+build/
+out/
+*.js
+!*.d.ts
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.build.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.staging
+
+# Playwright
+.playwright/
+test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+trace/
+videos/
+screenshots/
+allure-results/
+reports/
+artifacts/
+output/
+temp/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# Optional package manager caches
+.yarn/
+.pnpm-store/
